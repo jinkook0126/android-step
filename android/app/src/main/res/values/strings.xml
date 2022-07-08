@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="notification_title">두둑</string>
+    <string name="notification_message">오늘도 열심히 걸어서 돈 벌어봐요!</string>
+</resources>
